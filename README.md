@@ -1,6 +1,6 @@
 Another github repo that shows different interpretation methods on image classification: (https://github.com/albermax/innvestigate) <br />
 
-# Model from LinkedIn
+# Models used by LinkedIn
 
 
 # Interpretation for NLP
